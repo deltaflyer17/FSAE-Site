@@ -224,6 +224,10 @@ header nav a {
     gap: 3rem;
 }
 
+#flatrock img {
+    width: 600px;
+}
+
 .sponsorship .eyebrow {
     font-size: 2.5rem;
     margin-left: 3rem;
@@ -233,5 +237,9 @@ header nav a {
     #flatrock{
         display: flex;
         flex-direction: column;
+    }
+
+    #flatrock img {
+        width: 350px;
     }
 }
