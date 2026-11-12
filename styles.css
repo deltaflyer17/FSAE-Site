@@ -213,3 +213,18 @@ header nav a {
 .contact-status:empty {
     display: none;
 }
+
+#flatrock {
+    margin-top: 5rem;
+    margin-left: 3rem;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    font-size: 1.05rem;
+    gap: 3rem;
+}
+
+.sponsorship .eyebrow {
+    font-size: 2.5rem;
+    margin-left: 3rem;
+}
